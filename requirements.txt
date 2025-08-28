@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+huggingface_hub
+TTS
+pydub
+replicate
+openai
